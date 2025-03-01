@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshitjani&label=Profile%20views&color=0e75b6&style=flat" alt="darshitjani" /> </p>
 
-- 🔭 I’m currently working on **Basic Projects**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **front-end web development**
 
